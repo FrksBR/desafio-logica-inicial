@@ -50,4 +50,3 @@ if (level >9001 && level <10000){
 if  (level >=10001){
     console.log("Olá" + nome + ". Você está no Radiante!")
 }
-console.log("Olá " + nome + ". Você está no elo "+ elo + "!")
